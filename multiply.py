@@ -1,1 +1,2 @@
-hii this is csk
+print("hii this is csk")
+print("Hii pull")
