@@ -2,6 +2,6 @@
 
 a = 80
 b = 50
-print("difference is : ", a-b)
-print("Addition = ", a+b)
+print("Difference of", a, "and", b, "is : ", a-b)
+print("Addition of", a, "and", b, "is : ", a+b)
 
