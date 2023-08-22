@@ -1,4 +1,4 @@
-#!/urr/bin/env python3
+#!/usr/bin/env python3
 
 a = 80
 b = 50
